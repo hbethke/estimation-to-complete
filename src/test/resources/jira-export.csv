@@ -1,0 +1,176 @@
+Issue Type,Issue key,Issue id,Parent id,Summary,Assignee,Priority,Status,Resolution,Updated,Custom field (Story Points),Labels,Fix Version/s
+Sub-task,ARJ-71,568756,568490,WGONEFNR,bob,Major,abgeschlossen,Done,24/Mar/18 7:41 PM,1.0,,Component1
+Sub-task,ARJ-138,568856,568557,WGONEISE,joe,Major,abgeschlossen,Done,24/Mar/18 7:41 PM,1.0,,Component1
+Sub-task,ARJ-139,568857,568557,WGONEIST,joe,Major,abgeschlossen,Done,24/Mar/18 7:41 PM,1.0,,Component1
+Sub-task,ARJ-140,568858,568557,WGONEISX,joe,Major,abgeschlossen,Done,24/Mar/18 7:41 PM,1.0,,Component1
+Sub-task,ARJ-64,568682,568475,WGONKOPF,joe,Major,abgeschlossen,Done,24/Mar/18 7:41 PM,1.0,,Component1
+Sub-task,ARJ-68,568689,568475,WGONPASS,joe,Major,abgeschlossen,Done,24/Mar/18 7:41 PM,3.0,,Component1
+Sub-task,ARJ-66,568686,568475,WGONPWAE,joe,Major,abgeschlossen,Done,24/Mar/18 7:40 PM,3.0,,Component1
+Sub-task,ARJ-65,568684,568475,WGONPWDT,joe,Major,abgeschlossen,Done,24/Mar/18 7:40 PM,1.0,,Component1
+Sub-task,ARJ-91,568782,568515,WGONPWEI,joe,Major,abgeschlossen,Done,24/Mar/18 7:40 PM,1.0,,Component1
+Sub-task,ARJ-72,568757,568490,WGONUEBS,bob,Major,abgeschlossen,Done,24/Mar/18 7:40 PM,1.0,,Component1
+Sub-task,ARJ-69,568694,568487,WGONWGAE,jim,Major,abgeschlossen,Done,24/Mar/18 7:40 PM,1.0,,Component1
+Sub-task,ARJ-70,568695,568487,WGONWGPF,jim,Major,abgeschlossen,Done,24/Mar/18 7:39 PM,1.0,,Component1
+Sub-task,ARJ-67,568688,568475,WGONWLKM,joe,Major,abgeschlossen,Done,24/Mar/18 7:39 PM,1.0,,Component1
+Sub-task,ARJ-257,569124,568475,WGOSTART,joe,Major,abgeschlossen,Done,24/Mar/18 7:38 PM,1.0,,Component1
+Sub-task,ARJ-73,568761,568495,WGONBEAE,bob,Major,bearbeitet,,24/Mar/18 7:44 PM,1.0,,Component1
+Sub-task,ARJ-74,568762,568495,WGONBEAL,bob,Major,bearbeitet,,24/Mar/18 7:44 PM,1.0,,Component1
+Sub-task,ARJ-75,568763,568495,WGONBEAS,bob,Major,bearbeitet,,24/Mar/18 7:43 PM,1.0,,Component1
+Sub-task,ARJ-76,568764,568495,WGONBENE,bob,Major,bearbeitet,,24/Mar/18 7:43 PM,1.0,,Component1
+Sub-task,ARJ-77,568765,568495,WGONBENS,bob,Major,bearbeitet,,24/Mar/18 7:43 PM,1.0,,Component1
+Sub-task,ARJ-78,568766,568495,WGONBEPF,bob,Major,bearbeitet,,24/Mar/18 7:43 PM,1.0,,Component1
+Sub-task,ARJ-80,568769,568507,WGONBEPV,jim,Major,bearbeitet,,24/Mar/18 7:43 PM,1.0,Blocked,Component1
+Sub-task,ARJ-92,568783,568516,WGONENF1,jim,Major,bearbeitet,,24/Mar/18 7:43 PM,3.0,Blocked,Component1
+Sub-task,ARJ-93,568784,568516,WGONENF2,jim,Major,bearbeitet,,24/Mar/18 7:43 PM,1.0,Blocked,Component1
+Sub-task,ARJ-94,568785,568516,WGONENFA,jim,Major,bearbeitet,,24/Mar/18 7:43 PM,1.0,Blocked,Component1
+Sub-task,ARJ-95,568786,568516,WGONENFL,jim,Major,bearbeitet,,24/Mar/18 7:42 PM,1.0,Blocked,Component1
+Sub-task,ARJ-82,568772,568508,WGONERLI,jim,Major,bearbeitet,,24/Mar/18 7:42 PM,1.0,Blocked,Component1
+Sub-task,ARJ-83,568773,568508,WGONERLN,jim,Major,bearbeitet,,24/Mar/18 7:42 PM,1.0,Blocked,Component1
+Sub-task,ARJ-84,568774,568508,WGONERLS,jim,Major,bearbeitet,,24/Mar/18 7:42 PM,1.0,Blocked,Component1
+Sub-task,ARJ-63,568677,568486,WGONHILF,bob,Major,bearbeitet,,24/Mar/18 7:42 PM,1.0,Blocked,Component1
+Sub-task,ARJ-133,568844,568545,WGONPNR2,jim,Major,bearbeitet,,24/Mar/18 7:42 PM,1.0,,Component1
+Sub-task,ARJ-134,568846,568545,WGONPNRE,jim,Major,bearbeitet,,24/Mar/18 7:42 PM,1.0,,Component1
+Sub-task,ARJ-135,568847,568545,WGONPRUE,jim,Major,bearbeitet,,24/Mar/18 7:42 PM,1.0,,Component1
+Sub-task,ARJ-79,568768,568507,WGONBEPS,jim,Major,in Bearbeitung,,24/Mar/18 7:47 PM,1.0,Blocked,Component1
+Sub-task,ARJ-85,568775,568510,WGONBWBI,joe,Major,in Bearbeitung,,24/Mar/18 7:47 PM,1.0,Blocked,Component1
+Sub-task,ARJ-86,568776,568510,WGONBWBS,joe,Major,in Bearbeitung,,24/Mar/18 7:47 PM,1.0,Blocked,Component1
+Sub-task,ARJ-97,568789,568518,WGONE1M1,voronin,Major,in Bearbeitung,,24/Mar/18 7:47 PM,1.0,Blocked,Component1
+Sub-task,ARJ-98,568790,568518,WGONE5M1,voronin,Major,in Bearbeitung,,24/Mar/18 7:47 PM,1.0,Blocked,Component1
+Sub-task,ARJ-99,568791,568518,WGONE6M1,voronin,Major,in Bearbeitung,,24/Mar/18 7:47 PM,1.0,Blocked,Component1
+Sub-task,ARJ-100,568792,568518,WGONE8M1,voronin,Major,in Bearbeitung,,24/Mar/18 7:47 PM,1.0,Blocked,Component1
+Sub-task,ARJ-101,568793,568518,WGONEAN1,voronin,Major,in Bearbeitung,,24/Mar/18 7:46 PM,1.0,Blocked,Component1
+Sub-task,ARJ-114,568813,568536,WGONEBF1,jim,Major,in Bearbeitung,,24/Mar/18 7:46 PM,1.0,Blocked,Component1
+Sub-task,ARJ-115,568814,568536,WGONEBF2,jim,Major,in Bearbeitung,,24/Mar/18 7:46 PM,1.0,Blocked,Component1
+Sub-task,ARJ-116,568816,568536,WGONEBFL,jim,Major,in Bearbeitung,,24/Mar/18 7:46 PM,3.0,Blocked,Component1
+Sub-task,ARJ-102,568794,568518,WGONEBM1,voronin,Major,in Bearbeitung,,24/Mar/18 7:46 PM,1.0,Blocked,Component1
+Sub-task,ARJ-103,568795,568518,WGONEMM1,voronin,Major,in Bearbeitung,,24/Mar/18 7:46 PM,1.0,Blocked,Component1
+Sub-task,ARJ-104,568797,568519,WGONEMU1,bob,Major,in Bearbeitung,,24/Mar/18 7:46 PM,1.0,Blocked,Component1
+Sub-task,ARJ-96,568787,568516,WGONERF2,bob,Major,in Bearbeitung,,24/Mar/18 7:46 PM,3.0,Blocked,Component1
+Sub-task,ARJ-89,568780,568514,WGONERIS,joe,Major,in Bearbeitung,,24/Mar/18 7:45 PM,1.0,,Component1
+Sub-task,ARJ-90,568781,568514,WGONERIT,joe,Major,in Bearbeitung,,24/Mar/18 7:45 PM,1.0,,Component1
+Sub-task,ARJ-81,568771,568508,WGONERLA,jim,Major,in Bearbeitung,,24/Mar/18 7:45 PM,1.0,Blocked,Component1
+Sub-task,ARJ-105,568798,568519,WGONHMVS,bob,Major,in Bearbeitung,,24/Mar/18 7:45 PM,1.0,Blocked,Component1
+Sub-task,ARJ-137,568852,568554,WGONPANW,jim,Major,in Bearbeitung,,24/Mar/18 7:45 PM,3.0,,Component1
+Sub-task,ARJ-153,568878,568565,WGONRRFA,bob,Major,in Bearbeitung,,24/Mar/18 7:45 PM,1.0,,Component1
+Sub-task,ARJ-151,568876,568564,WGONRRFE,bob,Major,in Bearbeitung,,24/Mar/18 7:45 PM,1.0,,Component1
+Sub-task,ARJ-154,568879,568565,WGONRRFL,bob,Major,in Bearbeitung,,24/Mar/18 7:45 PM,1.0,,Component1
+Sub-task,ARJ-152,568877,568564,WGONRRFS,bob,Major,in Bearbeitung,,24/Mar/18 7:44 PM,1.0,,Component1
+Sub-task,ARJ-146,568868,568561,WGONSTAM,voronin,Major,in Bearbeitung,,24/Mar/18 7:44 PM,1.0,,Component1
+Sub-task,ARJ-147,568869,568561,WGONSUCH,voronin,Major,in Bearbeitung,,24/Mar/18 7:44 PM,1.0,,Component1
+Sub-task,ARJ-87,568777,568512,WGONTXTI,joe,Major,in Bearbeitung,,24/Mar/18 7:44 PM,1.0,,Component1
+Sub-task,ARJ-88,568778,568512,WGONTXTS,joe,Major,in Bearbeitung,,24/Mar/18 7:44 PM,1.0,,Component1
+Sub-task,ARJ-247,569048,569023,WGONUMFR,voronin,Major,in Bearbeitung,,24/Mar/18 7:44 PM,1.0,,Component1
+Sub-task,ARJ-148,568870,568561,WGONXSUC,voronin,Major,in Bearbeitung,,24/Mar/18 7:44 PM,1.0,,Component1
+Sub-task,ARJ-144,568865,568560,WGONXTRA,bob,Major,ready 4 deployment,,24/Mar/18 7:48 PM,1.0,,Component1
+Sub-task,ARJ-145,568867,568560,WGONXUMF,bob,Major,ready 4 deployment,,24/Mar/18 7:47 PM,1.0,,Component1
+Sub-task,ARJ-227,569025,569023,call-TSO,joe,Major,open,,24/Mar/18 9:11 PM,1.0,,Component2
+Sub-task,ARJ-226,569024,569023,ALLOCFM,joe,Major,open,,24/Mar/18 9:10 PM,1.0,,Component2
+Sub-task,ARJ-270,592385,569023,WGONUSTT,joe,Major,open,,24/Mar/18 9:03 PM,1.0,,Component1
+Sub-task,ARJ-268,592383,569023,WGONUSEA,joe,Major,open,,24/Mar/18 9:03 PM,1.0,,Component1
+Sub-task,ARJ-269,592384,569023,WGONUSEE,joe,Major,open,,24/Mar/18 9:03 PM,1.0,,Component1
+Sub-task,ARJ-178,568909,568658,WOG-Procedure,joe,Major,open,,24/Mar/18 8:22 PM,3.0,,Component3
+Sub-task,ARJ-163,568891,568672,WGRBBERE,joe,Major,open,,24/Mar/18 8:12 PM,5.0,,Component3
+Sub-task,ARJ-224,568998,568945,WANPV5RS,joe,Major,open,,24/Mar/18 8:11 PM,5.0,,Component2
+Sub-task,ARJ-106,568799,568520,WGONEAU1,joe,Major,open,,24/Mar/18 8:06 PM,1.0,,Component1
+Sub-task,ARJ-107,568800,568521,WGONEAV1,joe,Major,open,,24/Mar/18 8:06 PM,3.0,,Component1
+Sub-task,ARJ-108,568801,568521,WGONPDFE,joe,Major,open,,24/Mar/18 8:06 PM,3.0,,Component1
+Sub-task,ARJ-109,568802,568521,WGONBNR2,joe,Major,open,,24/Mar/18 8:06 PM,1.0,,Component1
+Sub-task,ARJ-110,568803,568521,WGONBNRE,joe,Major,open,,24/Mar/18 8:06 PM,1.0,,Component1
+Sub-task,ARJ-111,568805,568523,WGONE1U1,joe,Major,open,,24/Mar/18 8:06 PM,1.0,,Component1
+Sub-task,ARJ-112,568806,568523,WGONEBV1,joe,Major,open,,24/Mar/18 8:06 PM,3.0,,Component1
+Sub-task,ARJ-113,568808,568524,WGONE1E1,joe,Major,open,,24/Mar/18 8:06 PM,1.0,,Component1
+Sub-task,ARJ-118,568819,568537,WGONE5M2,joe,Major,open,,24/Mar/18 8:05 PM,1.0,,Component1
+Sub-task,ARJ-119,568820,568537,WGONE6M2,joe,Major,open,,24/Mar/18 8:05 PM,1.0,,Component1
+Sub-task,ARJ-120,568821,568537,WGONE8M2,joe,Major,open,,24/Mar/18 8:05 PM,1.0,,Component1
+Sub-task,ARJ-122,568823,568537,WGONEBM2,joe,Major,open,,24/Mar/18 8:05 PM,1.0,,Component1
+Sub-task,ARJ-123,568825,568537,WGONEDM2,joe,Major,open,,24/Mar/18 8:05 PM,1.0,,Component1
+Sub-task,ARJ-124,568826,568537,WGONEHM2,joe,Major,open,,24/Mar/18 8:05 PM,1.0,,Component1
+Sub-task,ARJ-117,568818,568537,WGONE1M2,joe,Major,open,,24/Mar/18 8:05 PM,1.0,,Component1
+Sub-task,ARJ-121,568822,568537,WGONEAN2,joe,Major,open,,24/Mar/18 8:05 PM,1.0,,Component1
+Sub-task,ARJ-125,568827,568537,WGONEMM2,joe,Major,open,,24/Mar/18 8:05 PM,1.0,,Component1
+Sub-task,ARJ-126,568831,568538,WGONEMH2,joe,Major,open,,24/Mar/18 8:05 PM,1.0,,Component1
+Sub-task,ARJ-127,568832,568538,WGONEMU2,joe,Major,open,,24/Mar/18 8:04 PM,1.0,,Component1
+Sub-task,ARJ-128,568834,568539,WGONEAU2,joe,Major,open,,24/Mar/18 8:04 PM,1.0,,Component1
+Sub-task,ARJ-129,568836,568540,WGONEAV2,joe,Major,open,,24/Mar/18 8:04 PM,3.0,,Component1
+Sub-task,ARJ-130,568837,568542,WGONE1U2,joe,Major,open,,24/Mar/18 8:04 PM,1.0,,Component1
+Sub-task,ARJ-131,568838,568542,WGONEBV2,joe,Major,open,,24/Mar/18 8:04 PM,3.0,,Component1
+Sub-task,ARJ-132,568842,568543,WGONE1E2,joe,Major,open,,24/Mar/18 8:04 PM,1.0,,Component1
+Sub-task,ARJ-136,568849,568553,WGONPAPL,joe,Major,open,,24/Mar/18 8:04 PM,3.0,,Component1
+Sub-task,ARJ-141,568861,568558,WGONPBSA,joe,Major,open,,24/Mar/18 8:04 PM,1.0,,Component1
+Sub-task,ARJ-142,568862,568558,WGONPBSF,joe,Major,open,,24/Mar/18 8:04 PM,1.0,,Component1
+Sub-task,ARJ-143,568863,568558,WGONPBSR,joe,Major,open,,24/Mar/18 8:04 PM,1.0,,Component1
+Sub-task,ARJ-149,568872,568563,WGONAUSW,joe,Major,open,,24/Mar/18 8:04 PM,5.0,,Component1
+Sub-task,ARJ-150,568875,568563,WGONXAUS,joe,Major,open,,24/Mar/18 8:03 PM,1.0,,Component1
+Sub-task,ARJ-155,568880,568567,WGONPOST,joe,Major,open,,24/Mar/18 8:03 PM,1.0,,Component1
+Sub-task,ARJ-156,568881,568579,WGONBEAR,joe,Major,open,,24/Mar/18 8:03 PM,1.0,,Component1
+Sub-task,ARJ-157,568882,568579,WGONBNRL,joe,Major,open,,24/Mar/18 8:03 PM,1.0,,Component1
+Sub-task,ARJ-158,568883,568582,WGONBANW,joe,Major,open,,24/Mar/18 8:03 PM,3.0,,Component1
+Sub-task,ARJ-159,568887,568582,WGONBAPL,joe,Major,open,,24/Mar/18 8:03 PM,1.0,,Component1
+Sub-task,ARJ-160,568888,568673,WGRBDRCK,joe,Major,open,,24/Mar/18 8:03 PM,5.0,,Component3
+Sub-task,ARJ-161,568889,568585,WGONBMM0,joe,Major,open,,24/Mar/18 8:03 PM,1.0,,Component1
+Sub-task,ARJ-162,568890,568585,WGONBMVS,joe,Major,open,,24/Mar/18 8:02 PM,1.0,,Component1
+Sub-task,ARJ-164,568892,568588,WGONBAVS,joe,Major,open,,24/Mar/18 8:02 PM,3.0,,Component1
+Sub-task,ARJ-166,568894,568663,WGRBEM04,joe,Major,open,,24/Mar/18 8:02 PM,5.0,,Component3
+Sub-task,ARJ-167,568895,568663,WGRBPM04,joe,Major,open,,24/Mar/18 8:02 PM,5.0,,Component3
+Sub-task,ARJ-165,568893,568589,WGONBBVS,joe,Major,open,,24/Mar/18 8:02 PM,3.0,,Component1
+Sub-task,ARJ-168,568896,568662,WGRBEM03,joe,Major,open,,24/Mar/18 8:02 PM,5.0,,Component3
+Sub-task,ARJ-169,568897,568590,WGONB1EI,joe,Major,open,,24/Mar/18 8:02 PM,1.0,,Component1
+Sub-task,ARJ-170,568898,568662,WGRBPM03,joe,Major,open,,24/Mar/18 8:02 PM,5.0,,Component3
+Sub-task,ARJ-171,568899,568661,WGRBEM02,joe,Major,open,,24/Mar/18 8:01 PM,5.0,,Component3
+Sub-task,ARJ-172,568900,568593,WGONBANL,joe,Major,open,,24/Mar/18 8:01 PM,3.0,,Component1
+Sub-task,ARJ-173,568901,568593,WGONBASL,joe,Major,open,,24/Mar/18 8:01 PM,1.0,,Component1
+Sub-task,ARJ-174,568903,568661,WGRBPM02,joe,Major,open,,24/Mar/18 8:01 PM,5.0,,Component3
+Sub-task,ARJ-175,568906,568658,WGRBSTRT,joe,Major,open,,24/Mar/18 8:01 PM,1.0,,Component3
+Sub-task,ARJ-176,568907,568658,WGRBWLKM,joe,Major,open,,24/Mar/18 8:01 PM,3.0,,Component3
+Sub-task,ARJ-177,568908,568658,WGRSTART,joe,Major,open,,24/Mar/18 8:00 PM,1.0,,Component3
+Sub-task,ARJ-179,568911,568659,WGRBEM01,joe,Major,open,,24/Mar/18 8:00 PM,5.0,,Component3
+Sub-task,ARJ-181,568913,568659,WGRBPM01,joe,Major,open,,24/Mar/18 8:00 PM,5.0,,Component3
+Sub-task,ARJ-180,568912,568659,WGRBKOPF,joe,Major,open,,24/Mar/18 8:00 PM,1.0,,Component3
+Sub-task,ARJ-197,568959,568927,WANPMZE0,joe,Major,open,,24/Mar/18 7:59 PM,5.0,,Component2
+Sub-task,ARJ-198,568960,568927,WANPMZE1,joe,Major,open,,24/Mar/18 7:59 PM,5.0,,Component2
+Sub-task,ARJ-199,568962,568927,WANPMZP1,joe,Major,open,,24/Mar/18 7:59 PM,5.0,,Component2
+Sub-task,ARJ-200,568963,568929,WANPMZE2,joe,Major,open,,24/Mar/18 7:59 PM,5.0,,Component2
+Sub-task,ARJ-201,568964,568929,WANPMZP2,joe,Major,open,,24/Mar/18 7:59 PM,5.0,,Component2
+Sub-task,ARJ-202,568965,568930,WANPMZE3,joe,Major,open,,24/Mar/18 7:59 PM,5.0,,Component2
+Sub-task,ARJ-203,568967,568930,WANPMZP3,joe,Major,open,,24/Mar/18 7:59 PM,5.0,,Component2
+Sub-task,ARJ-204,568969,568931,WANPMZP4,joe,Major,open,,24/Mar/18 7:58 PM,5.0,,Component2
+Sub-task,ARJ-205,568970,568931,WANPMZE4,joe,Major,open,,24/Mar/18 7:58 PM,5.0,,Component2
+Sub-task,ARJ-206,568975,568932,WANPMZE5,joe,Major,open,,24/Mar/18 7:58 PM,5.0,,Component2
+Sub-task,ARJ-207,568976,568932,WANPMZP5,joe,Major,open,,24/Mar/18 7:58 PM,5.0,,Component2
+Sub-task,ARJ-208,568978,568934,WANPMZE6,joe,Major,open,,24/Mar/18 7:58 PM,5.0,,Component2
+Sub-task,ARJ-223,568997,568944,WANPPRUE,joe,Major,open,,24/Mar/18 7:57 PM,5.0,,Component2
+Sub-task,ARJ-222,568996,568942,WANPZEIC,joe,Major,open,,24/Mar/18 7:57 PM,5.0,,Component2
+Sub-task,ARJ-221,568995,568942,WANPLOES,joe,Major,open,,24/Mar/18 7:57 PM,1.0,,Component2
+Sub-task,ARJ-220,568994,568942,WANPJSZE,joe,Major,open,,24/Mar/18 7:57 PM,1.0,,Component2
+Sub-task,ARJ-219,568992,568941,WANPLEER,joe,Major,open,,24/Mar/18 7:57 PM,5.0,,Component2
+Sub-task,ARJ-218,568991,568940,WANPLZP3,joe,Major,open,,24/Mar/18 7:57 PM,5.0,,Component2
+Sub-task,ARJ-217,568990,568940,WANPLZE3,joe,Major,open,,24/Mar/18 7:57 PM,5.0,,Component2
+Sub-task,ARJ-216,568987,568939,WANPPDFA,joe,Major,open,,24/Mar/18 7:57 PM,5.0,,Component2
+Sub-task,ARJ-215,568986,568939,WANPMZP9,joe,Major,open,,24/Mar/18 7:56 PM,5.0,,Component2
+Sub-task,ARJ-214,568985,568939,WANPMZE9,joe,Major,open,,24/Mar/18 7:56 PM,5.0,,Component2
+Sub-task,ARJ-213,568984,568938,WANPMZP8,joe,Major,open,,24/Mar/18 7:56 PM,5.0,,Component2
+Sub-task,ARJ-212,568983,568938,WANPMZE8,joe,Major,open,,24/Mar/18 7:56 PM,5.0,,Component2
+Sub-task,ARJ-211,568982,568937,WANPMZP7,joe,Major,open,,24/Mar/18 7:56 PM,5.0,,Component2
+Sub-task,ARJ-210,568980,568937,WANPMZE7,joe,Major,open,,24/Mar/18 7:56 PM,5.0,,Component2
+Sub-task,ARJ-209,568979,568934,WANPMZP6,joe,Major,open,,24/Mar/18 7:55 PM,5.0,,Component2
+Sub-task,ARJ-228,569026,569023,WGONANTA,joe,Major,open,,24/Mar/18 7:52 PM,1.0,,Component1
+Sub-task,ARJ-229,569027,569023,WGONANTB,joe,Major,open,,24/Mar/18 7:52 PM,1.0,,Component1
+Sub-task,ARJ-230,569028,569023,WGONANTR,joe,Major,open,,24/Mar/18 7:52 PM,1.0,,Component1
+Sub-task,ARJ-231,569029,569023,WGONANTU,joe,Major,open,,24/Mar/18 7:51 PM,1.0,,Component1
+Sub-task,ARJ-232,569030,569023,WGONE1A1,joe,Major,open,,24/Mar/18 7:51 PM,1.0,,Component1
+Sub-task,ARJ-233,569031,569023,WGONE1A2,joe,Major,open,,24/Mar/18 7:51 PM,1.0,,Component1
+Sub-task,ARJ-234,569033,569023,WGONE5U1,joe,Major,open,,24/Mar/18 7:51 PM,1.0,,Component1
+Sub-task,ARJ-235,569034,569023,WGONE5U2,joe,Major,open,,24/Mar/18 7:51 PM,1.0,,Component1
+Sub-task,ARJ-236,569035,569023,WGONE6U1,joe,Major,open,,24/Mar/18 7:51 PM,1.0,,Component1
+Sub-task,ARJ-237,569036,569023,WGONE6U2,joe,Major,open,,24/Mar/18 7:51 PM,1.0,,Component1
+Sub-task,ARJ-238,569037,569023,WGONE8U1,joe,Major,open,,24/Mar/18 7:51 PM,1.0,,Component1
+Sub-task,ARJ-239,569038,569023,WGONE8U2,joe,Major,open,,24/Mar/18 7:50 PM,1.0,,Component1
+Sub-task,ARJ-240,569039,569023,WGONEAA1,joe,Major,open,,24/Mar/18 7:50 PM,1.0,,Component1
+Sub-task,ARJ-241,569040,569023,WGONEAA2,joe,Major,open,,24/Mar/18 7:50 PM,1.0,,Component1
+Sub-task,ARJ-242,569041,569023,WGONEBU1,joe,Major,open,,24/Mar/18 7:50 PM,1.0,,Component1
+Sub-task,ARJ-243,569042,569023,WGONEBU2,joe,Major,open,,24/Mar/18 7:50 PM,1.0,,Component1
+Sub-task,ARJ-244,569043,569023,WGONEHU2,joe,Major,open,,24/Mar/18 7:50 PM,1.0,,Component1
+Sub-task,ARJ-245,569044,569023,WGONEMA1,joe,Major,open,,24/Mar/18 7:50 PM,1.0,,Component1
+Sub-task,ARJ-246,569046,569023,WGONEMA2,joe,Major,open,,24/Mar/18 7:49 PM,1.0,,Component1
+Sub-task,ARJ-248,569049,569023,WGONUSPP,joe,Major,open,,24/Mar/18 7:49 PM,1.0,,Component1
+Sub-task,ARJ-253,569056,569023,WGONE1H2,joe,Major,open,,24/Mar/18 7:49 PM,1.0,,Component1
