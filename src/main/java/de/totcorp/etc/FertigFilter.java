@@ -14,7 +14,7 @@ public class FertigFilter {
     Iterator<JiraRecord> it = records.iterator();
     while (it.hasNext()) {
       JiraRecord record = it.next();
-      if (ABGESCHLOSSEN.equals(record.getStatus()) || BEARBEITET.equals(record.getStatus())) {
+      if (ABGESCHLOSSEN.equals(record.getStatus().toLowerCase()) || BEARBEITET.equals(record.getStatus().toLowerCase())) {
         fertigeRecords.add(record);
       }
     }
