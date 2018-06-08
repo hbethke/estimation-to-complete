@@ -8,13 +8,16 @@ public class FertigFilter {
 
   public static final String ABGESCHLOSSEN = "abgeschlossen";
   public static final String BEARBEITET = "bearbeitet";
+  public static final String ZURUECKGEWIESEN = "shelved";
 
   public static List<JiraRecord> onlyFertigeStories(List<JiraRecord> records) {
     List<JiraRecord> fertigeRecords = new ArrayList<JiraRecord>();
     Iterator<JiraRecord> it = records.iterator();
     while (it.hasNext()) {
       JiraRecord record = it.next();
-      if (ABGESCHLOSSEN.equals(record.getStatus().toLowerCase()) || BEARBEITET.equals(record.getStatus().toLowerCase())) {
+      if (ABGESCHLOSSEN.equals(record.getStatus().toLowerCase())
+              || BEARBEITET.equals(record.getStatus().toLowerCase())
+              || ZURUECKGEWIESEN.equals(record.getStatus().toLowerCase())) {
         fertigeRecords.add(record);
       }
     }
